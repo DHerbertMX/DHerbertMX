@@ -12,11 +12,16 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Data Visualization and Pentester. </p>
+<p align="left">👋
+  ¡Hola! Soy un desarrollador backend especializado en Node.js y React. Me apasiona la tecnología y disfruto creando soluciones eficientes y escalables.
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source FiveM.
+🔧 Tengo experiencia en herramientas como Postman para pruebas y desarrollo de APIs.
+
+🎓 Estoy certificado en ciberseguridad por Google, lo que me permite integrar buenas prácticas de seguridad en todos mis proyectos.
+
+📡 Conocimiento en tecnología RFID y poseo una certificación de Zebra, lo que me ha permitido trabajar en proyectos innovadores en el campo de la identificación y gestión de activos.
+
+🚀 Siempre estoy aprendiendo y buscando nuevos desafíos en el mundo de la programación y la tecnología.
 <!--End Intro-->
 
 ---
